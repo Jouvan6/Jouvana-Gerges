@@ -38,7 +38,10 @@
 **LinkedIn:** [linkedin.com/in/jouvana-gerges-samir](https://www.linkedin.com/in/jouvana-gerges-samir)[cite: 3]
 **Email:** [jouvanagerges@gmail.com](mailto:jouvanagerges@gmail.com)[cite: 2]
 **Location:** Maghaga, El Minya, Egypt[cite: 2]
-**CV:** [Click PDF]((https://drive.google.com/file/d/1qn09CISCdZkBCJk_oXTwvLi1qpHfrfC6/view?usp=sharing))
+---
+
+### 📄 Curriculum Vitae
+* **Download/View my full CV:** [Click Here to View PDF]((https://drive.google.com/file/d/1qn09CISCdZkBCJk_oXTwvLi1qpHfrfC6/view?usp=sharing))
 
 ---
 *"Code is the tool, but creativity is the soul of every application."*
