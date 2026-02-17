@@ -35,11 +35,10 @@
 ---
 
 ### 📫 Connect with Me
-* [cite_start]**LinkedIn:** [linkedin.com/in/jouvana-gerges-samir](https://www.linkedin.com/in/jouvana-gerges-samir) [cite: 3]
-* [cite_start]**Email:** [jouvanagerges@gmail.com](mailto:jouvanagerges@gmail.com) [cite: 2]
-* [cite_start]**Location:** Maghaga, El Minya, Egypt [cite: 2]
-### 📄 Curriculum Vitae
-* **Download/View my full CV:** [Click Here to View PDF]((https://drive.google.com/file/d/1qn09CISCdZkBCJk_oXTwvLi1qpHfrfC6/view?usp=sharing))
+**LinkedIn:** [linkedin.com/in/jouvana-gerges-samir](https://www.linkedin.com/in/jouvana-gerges-samir) 
+**Email:** [jouvanagerges@gmail.com](mailto:jouvanagerges@gmail.com) 
+**Location:** Maghaga, El Minya, Egypt
+**CV:** [Click Here to View PDF]((https://drive.google.com/file/d/1qn09CISCdZkBCJk_oXTwvLi1qpHfrfC6/view?usp=sharing))
 
 ---
 *"Code is the tool, but creativity is the soul of every application."*
