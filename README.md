@@ -35,9 +35,9 @@
 ---
 
 ### 📫 Connect with Me
-**LinkedIn:** [linkedin.com/in/jouvana-gerges-samir](https://www.linkedin.com/in/jouvana-gerges-samir)[cite: 3]
-**Email:** [jouvanagerges@gmail.com](mailto:jouvanagerges@gmail.com)[cite: 2]
-**Location:** Maghaga, El Minya, Egypt[cite: 2]
+* [cite_start]**LinkedIn:** [linkedin.com/in/jouvana-gerges-samir](https://www.linkedin.com/in/jouvana-gerges-samir) [cite: 3]
+* [cite_start]**Email:** [jouvanagerges@gmail.com](mailto:jouvanagerges@gmail.com) [cite: 2]
+* [cite_start]**Location:** Maghaga, El Minya, Egypt [cite: 2]
 ---
 
 ### 📄 Curriculum Vitae
